@@ -1,0 +1,7 @@
+web_server_location         = "westus2"
+web_server_rg               = "web-rg"
+environment                 = "x"
+web_server_name             = "web"
+resource_prefix             = "web-server"
+web_server_address_space    = "192.168.0.0/16"
+web_server_address_prefix   = "192.168.0.0/24"
